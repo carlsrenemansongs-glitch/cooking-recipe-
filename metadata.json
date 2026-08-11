@@ -1,0 +1,6 @@
+{
+  "name": "Budget Cooking",
+  "description": "Discover delicious, low-budget lunch and dinner ideas with step-by-step cooking tips, budget breakdowns, pantry matching, and grocery lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
